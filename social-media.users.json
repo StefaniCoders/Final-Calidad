@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "65722faa80c044c007d55362"
+  },
+  "nombre": "Juan",
+  "apellidos": "Gomez",
+  "foto_perfil": "http://localhost:3000/default-img.webp",
+  "sexo": "masculino",
+  "fecha_registro": "7/12/2023, 10:45:37",
+  "fecha_nacimiento": "2023-12-09",
+  "contraseña": "123",
+  "correo": "test@gmail.com",
+  "amigos": [
+    {
+      "$oid": "657287879361142e1e702ae4"
+    },
+    {
+      "$oid": "6573419db6a36eea148c1eff"
+    },
+    {
+      "$oid": "6573448bd0f9d1c283b54c4b"
+    },
+    {
+      "$oid": "657346c2e3d62957149abb77"
+    },
+    {
+      "$oid": "6573765828ef08f7bce17ece"
+    }
+  ],
+  "solicitudes_amistad": [
+    {
+      "usuario": {
+        "$oid": "6573419db6a36eea148c1eff"
+      },
+      "estado": "pendiente",
+      "_id": {
+        "$oid": "657341c5b6a36eea148c1f05"
+      }
+    },
+    {
+      "usuario": {
+        "$oid": "65722faa80c044c007d55362"
+      },
+      "estado": "pendiente",
+      "_id": {
+        "$oid": "6573768728ef08f7bce17ee0"
+      }
+    }
+  ],
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "657287879361142e1e702ae4"
+  },
+  "nombre": "Roberto",
+  "apellidos": "Torres",
+  "foto_perfil": "http://localhost:3000/default-img.webp",
+  "sexo": "otro",
+  "fecha_registro": "7/12/2023, 17:00:07",
+  "fecha_nacimiento": "2013-12-17",
+  "contraseña": "123",
+  "correo": "robert@gmail.com",
+  "amigos": [
+    {
+      "$oid": "65722faa80c044c007d55362"
+    }
+  ],
+  "solicitudes_amistad": [],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6573419db6a36eea148c1eff"
+  },
+  "nombre": "Lucia",
+  "apellidos": "Lopez",
+  "foto_perfil": "http://localhost:3000/default-img.webp",
+  "sexo": "femenino",
+  "fecha_registro": "8/12/2023, 06:15:47",
+  "fecha_nacimiento": "2013-12-11",
+  "contraseña": "123",
+  "correo": "lcia@lopez.com",
+  "amigos": [
+    {
+      "$oid": "65722faa80c044c007d55362"
+    }
+  ],
+  "solicitudes_amistad": [],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6573448bd0f9d1c283b54c4b"
+  },
+  "nombre": "Rosa",
+  "apellidos": "Torres",
+  "foto_perfil": "http://localhost:3000/default-img.webp",
+  "sexo": "femenino",
+  "fecha_registro": "8/12/2023, 06:29:29",
+  "fecha_nacimiento": "2013-12-11",
+  "contraseña": "123",
+  "correo": "rosa@example.com",
+  "amigos": [
+    {
+      "$oid": "65722faa80c044c007d55362"
+    }
+  ],
+  "solicitudes_amistad": [],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "657346c2e3d62957149abb77"
+  },
+  "nombre": "Mario",
+  "apellidos": "Prado",
+  "foto_perfil": "http://localhost:3000/default-img.webp",
+  "sexo": "masculino",
+  "fecha_registro": "8/12/2023, 06:38:36",
+  "fecha_nacimiento": "2013-12-08",
+  "contraseña": "123",
+  "correo": "mario@gmail.com",
+  "amigos": [
+    {
+      "$oid": "65722faa80c044c007d55362"
+    }
+  ],
+  "solicitudes_amistad": [
+    {
+      "usuario": {
+        "$oid": "6573448bd0f9d1c283b54c4b"
+      },
+      "estado": "pendiente",
+      "_id": {
+        "$oid": "657358f94b2fd5631b6ba024"
+      }
+    },
+    {
+      "usuario": {
+        "$oid": "6573419db6a36eea148c1eff"
+      },
+      "estado": "pendiente",
+      "_id": {
+        "$oid": "657359074b2fd5631b6ba029"
+      }
+    }
+  ],
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "6573765828ef08f7bce17ece"
+  },
+  "nombre": "Lupe",
+  "apellidos": "Lurdes Lupe",
+  "foto_perfil": "http://localhost:3000/default-img.webp",
+  "sexo": "femenino",
+  "fecha_registro": "8/12/2023, 09:27:20",
+  "fecha_nacimiento": "2012-12-08",
+  "contraseña": "123",
+  "correo": "lu@gmail.com",
+  "amigos": [
+    {
+      "$oid": "65722faa80c044c007d55362"
+    }
+  ],
+  "solicitudes_amistad": [],
+  "__v": 1
+}]

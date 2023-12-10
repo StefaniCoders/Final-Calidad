@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "6572308380c044c007d55385"
+  },
+  "usuario": {
+    "$oid": "65722faa80c044c007d55362"
+  },
+  "fecha_publicacion": "7/12/2023, 10:45:37",
+  "multimedia": [
+    {
+      "tipo": "video",
+      "url": "http://localhost:3000/uploads/1701982339255-souutPark.mp4",
+      "_id": {
+        "$oid": "6572308380c044c007d55386"
+      }
+    }
+  ],
+  "reaccion": [],
+  "comentarios": [
+    {
+      "usuario": {
+        "$oid": "657287879361142e1e702ae4"
+      },
+      "contenido": "Me gusto tu publicacion",
+      "fecha_publicacion": "7/12/2023, 17:05:04",
+      "_id": {
+        "$oid": "65728841cce1d62d46a06d3c"
+      }
+    },
+    {
+      "usuario": {
+        "$oid": "657287879361142e1e702ae4"
+      },
+      "contenido": "Inbox",
+      "fecha_publicacion": "7/12/2023, 17:05:04",
+      "_id": {
+        "$oid": "65728886cce1d62d46a06d41"
+      }
+    },
+    {
+      "usuario": {
+        "$oid": "65722faa80c044c007d55362"
+      },
+      "contenido": "prueba de solo com,entario",
+      "fecha_publicacion": "7/12/2023, 19:30:59",
+      "_id": {
+        "$oid": "6572aabb67da64bab96d13e8"
+      }
+    },
+    {
+      "usuario": {
+        "$oid": "65722faa80c044c007d55362"
+      },
+      "contenido": "asdss",
+      "fecha_publicacion": "7/12/2023, 19:34:09",
+      "_id": {
+        "$oid": "6572aae9b54b3b1f0acaef83"
+      }
+    },
+    {
+      "usuario": {
+        "$oid": "65722faa80c044c007d55362"
+      },
+      "contenido": "sdsadasdasds",
+      "fecha_publicacion": "7/12/2023, 19:35:38",
+      "_id": {
+        "$oid": "6572ab36b87b7cb89062f32c"
+      }
+    },
+    {
+      "usuario": {
+        "$oid": "65722faa80c044c007d55362"
+      },
+      "contenido": "sdsadasdasds",
+      "fecha_publicacion": "7/12/2023, 19:35:38",
+      "_id": {
+        "$oid": "6572ab51b87b7cb89062f348"
+      }
+    }
+  ],
+  "contenido": "feliz cumpleaños¡¡¡",
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "65723a8a80c044c007d580b3"
+  },
+  "usuario": {
+    "$oid": "65722faa80c044c007d55362"
+  },
+  "fecha_publicacion": "7/12/2023, 10:45:37",
+  "multimedia": [
+    {
+      "tipo": "GIF",
+      "url": "http://localhost:3000/uploads/1701984906879-giphy.gif",
+      "_id": {
+        "$oid": "65723a8a80c044c007d580b4"
+      }
+    }
+  ],
+  "reaccion": [],
+  "comentarios": [],
+  "contenido": "Prueba",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572858dceead76a0b397ae0"
+  },
+  "usuario": {
+    "$oid": "65722faa80c044c007d55362"
+  },
+  "contenido": "Estoy contento",
+  "fecha_publicacion": "7/12/2023, 16:52:25",
+  "multimedia": [],
+  "reaccion": [],
+  "comentarios": [
+    {
+      "usuario": {
+        "$oid": "65722faa80c044c007d55362"
+      },
+      "contenido": "Me alegro",
+      "fecha_publicacion": "8/12/2023, 05:39:08",
+      "_id": {
+        "$oid": "6573390b286ff4c50d8d37d0"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6572a41966a029cc2ad98332"
+  },
+  "usuario": {
+    "$oid": "65722faa80c044c007d55362"
+  },
+  "fecha_publicacion": "7/12/2023, 18:43:14",
+  "multimedia": [],
+  "reaccion": [],
+  "comentarios": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572a4f266a029cc2ada8372"
+  },
+  "usuario": {
+    "$oid": "65722faa80c044c007d55362"
+  },
+  "contenido": "prueba de solo comentario",
+  "fecha_publicacion": "7/12/2023, 18:43:14",
+  "multimedia": [],
+  "reaccion": [],
+  "comentarios": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572a52066a029cc2adaf5c7"
+  },
+  "usuario": {
+    "$oid": "65722faa80c044c007d55362"
+  },
+  "contenido": "dsfsdfasdasdkkasdssssd",
+  "fecha_publicacion": "7/12/2023, 18:43:14",
+  "multimedia": [],
+  "reaccion": [],
+  "comentarios": [],
+  "__v": 0
+}]

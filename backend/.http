@@ -1,0 +1,28 @@
+### Registrarse
+POST http://localhost:3000/registrarse
+Content-Type: application/json
+
+{
+    "nombre": "Juan",
+    "apellido": "Lopez",
+    "correo": "juan@test.com",
+    "contrasena": "12345",
+    "sexo": "masculino",
+    "fecha_nacimiento": "2023-12-31"
+}
+
+### Login
+POST http://localhost:3000/iniciar-sesion
+Content-Type: application/json
+
+{
+    "correo": "test@gmail.com",
+    "contraseña": "12345"
+}
+
+### Get Data User
+GET http://localhost:3000/get-data-user
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NjdhN2YzZDkzOWZiMGJjMmM2ZGI1MyIsImlhdCI6MTcwMTM3NTQ4MCwiZXhwIjoxNzAzOTY3NDgwfQ.wzRwURlLdg3id1iUuwn2l-lUqPjkQx2G8sCb1EpkFU4
+
+### Get All User
+GET http://localhost:3000/get-all-users
